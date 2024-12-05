@@ -1,0 +1,112 @@
+
+-----------------------------
+   MATRICULA  |  PR NOMBRE      |  SEG NOMBRE      |  PR APELLIDO      |  SEG APELLIDO      |  FECHA NAC      |  GENERO  |  EDO NAC
+--------------|-----------------|-----------------|-------------------|-------------------|----------------|----------|------------
+      300340 | JESUS           | DANIEL          | GALLARDO          | MARTINEZ          | 22/10/1921     | HOMBRE   | 11
+      301022 | DOLORES         | BEATRIZ         | MOLINA            | PENA              | 21/04/1984     | MUJER    | 29
+      301043 | MARTA           | PATROCINIO      | RODRIGUEZ         | SANCHEZ           | 07/11/1989     | MUJER    | 15
+      301139 | VICTOR          | ALFREDO         | ALVAREZ           | GOMEZ             | 02/04/1942     | HOMBRE   | 24
+      301425 | JOAQUIN         | ALBERTO         | ALVAREZ           | MENDOZA           | 22/09/1999     | HOMBRE   | 11
+      301530 | ADRIAN          | OSCAR           | MOLINA            | CAMPOS            | 31/12/1939     | HOMBRE   | 14
+      302064 | ALFREDO         | JUAN            | HERNANDEZ         | GALLARDO          | 21/12/1988     | HOMBRE   | 19
+      302509 | GUSTAVO         | EDUARDO         | HERRERA           | SANCHEZ           | 08/01/1958     | HOMBRE   | 17
+      302550 | INES            | ANA             | GOMEZ             | RODRIGUEZ         | 12/11/1958     | MUJER    | 21
+      303051 | ADRIAN          | ISRAEL          | MARTINEZ          | GUZMAN            | 26/12/1983     | HOMBRE   | 28
+      303725 | ROCIO           | ADRIANA         | CASTRO            | VAZQUEZ           | 14/04/1945     | MUJER    | 1
+      303936 | MANUEL          | EDUARDO         | PENA              | BENITEZ           | 28/11/1907     | HOMBRE   | 16
+      303980 | VICTOR          | JUAN            | MALDONADO         | MOLINA            | 30/10/2007     | HOMBRE   | 29
+      304139 | ESTHER          | LAURA           | MALDONADO         | MEDINA            | 12/09/1968     | MUJER    | 22
+      304197 | CECILIA         | LORENA          | RAMOS             | VILLALOBOS        | 29/03/1984     | MUJER    | 30
+      304237 | DIEGO           | JOAQUIN         | VARGAS            | GOMEZ             | 17/09/1994     | HOMBRE   | 16
+      304652 | JACINTO         | JORGE           | PEREZ             | VALENCIA          | 13/09/1956     | HOMBRE   | 11
+      305126 | ANTONIA         | FABIOLA         | VAZQUEZ           | PACHECO           | 11/07/1920     | MUJER    | 21
+      305157 | ALEJANDRA       | PILAR           | CORTES            | TORRES            | 17/05/2005     | MUJER    | 10
+      305173 | MARIANO         | JORGE           | ROJAS             | HERRERA           | 25/12/1984     | HOMBRE   | 7
+      305722 | ANGELA          | MARINA          | SALAZAR           | MARTINEZ          | 12/07/1920     | MUJER    | 18
+      305918 | DIANA           | SOFIA           | GALLARDO          | RUIZ              | 02/01/1944     | MUJER    | 7
+      306164 | CARLOS          | GONZALO         | VILLALOBOS        | DIAZ              | 02/10/1995     | HOMBRE   | 12
+      306604 | SILVIA          | MIREYA          | DIAZ              | SANCHEZ           | 20/12/1909     | MUJER    | 11
+      306836 | PILAR           | PAULA           | AGUILAR           | MEDINA            | 26/09/1986     | MUJER    | 12
+      307750 | PILAR           | PATRICIA        | MOLINA            | FERNANDEZ         | 07/09/1971     | MUJER    | 6
+      308300 | LEONARDO        | RICARDO         | MORENO            | PENA              | 07/01/2005     | HOMBRE   | 21
+      308389 | JULIA           | CRISTINA        | MENDOZA           | PENA              | 14/01/1997     | MUJER    | 27
+      308731 | JORGE           | PEDRO           | CERVANTES         | CORTES            | 31/04/1980     | HOMBRE   | 31
+      309054 | ROCIO           | MIREYA          | CASTILLO          | SILVA             | 30/06/1993     | MUJER    | 15
+      309475 | ELENA           | PILAR           | ROJAS             | HERRERA           | 08/07/1934     | MUJER    | 12
+      309586 | DANIEL          | FELICIANO       | PINEDA            | RUIZ              | 16/10/1951     | HOMBRE   | 24
+      309772 | MARTA           | SARA            | CAMPOS            | HERRERA           | 30/07/1977     | MUJER    | 10
+      310149 | PILAR           | ESTHER          | MARTINEZ          | GUZMAN            | 26/04/1978     | MUJER    | 19
+      310992 | MARIO           | JESUS           | MALDONADO         | NAVARRO           | 05/12/1999     | HOMBRE   | 29
+      311150 | ELENA           | MARIANA         | ROJAS             | AGUILAR           | 25/03/1910     | MUJER    | 7
+      311894 | ANDRES          | JORGE           | ALVAREZ           | PACHECO           | 07/11/1941     | HOMBRE   | 2
+      312025 | IGNACIO         | ANTONIO         | MALDONADO         | RAMOS             | 19/07/1981     | HOMBRE   | 5
+      312716 | ALICIA          | LUCIA           | ALVAREZ           | RODRIGUEZ         | 27/07/1955     | MUJER    | 19
+      313064 | ANDRES          | FRANCISCO       | GUZMAN            | PACHECO           | 10/04/1913     | HOMBRE   | 28
+
+-----------------------------
+   MATRICULA  |  PR NOMBRE      |  SEG NOMBRE      |  PR APELLIDO      |  SEG APELLIDO      |  FECHA NAC      |  GENERO  |  EDO NAC
+--------------|-----------------|-----------------|-------------------|-------------------|----------------|----------|------------
+      314094 | FABIOLA         | DOLORES         | RODRIGUEZ         | ROMERO            | 08/08/1953     | MUJER    | 24
+      314294 | ALBERTO         | IGNACIO         | MORENO            | FUENTES           | 13/11/2003     | HOMBRE   | 14
+      314661 | FRANCISCO       | JORGE           | CORTES            | SILVA             | 19/02/1998     | HOMBRE   | 24
+      314878 | BEATRIZ         | DIANA           | GONZALEZ          | SILVA             | 21/04/1945     | MUJER    | 24
+      315029 | RAUL            | EDUARDO         | RAMIREZ           | VEGA              | 10/04/1923     | HOMBRE   | 25
+      315181 | EVA             | SILVIA          | VEGA              | VAZQUEZ           | 10/10/1969     | MUJER    | 15
+      315284 | GUILLERMO       | FELICIANO       | HERRERA           | CASTRO            | 06/05/1964     | HOMBRE   | 16
+      315335 | MARIANA         | MARGARITA       | TORRES            | GOMEZ             | 07/12/1942     | MUJER    | 17
+      315413 | ISABEL          | FABIOLA         | CASTRO            | GUZMAN            | 13/05/2004     | MUJER    | 1
+      316547 | REGINA          | MARIANA         | CASTILLO          | HERRERA           | 12/11/1981     | MUJER    | 1
+      316845 | MARIANO         | DANIEL          | VILLALOBOS        | VALENCIA          | 23/04/1952     | HOMBRE   | 8
+      316976 | DOLORES         | DIANA           | ROMERO            | AGUILAR           | 10/08/1975     | MUJER    | 14
+      317120 | MARIAJOSE       | MARIAJOSE       | RUIZ              | MORENO            | 13/08/2002     | MUJER    | 4
+      317575 | EMILIO          | FABIAN          | ORTIZ             | AGUILAR           | 27/06/1920     | HOMBRE   | 33
+      317634 | ADRIAN          | RICARDO         | LUNA              | REYES             | 12/10/1928     | HOMBRE   | 9
+      317911 | JULIA           | VICTORIA        | LOPEZ             | PENA              | 26/07/1971     | MUJER    | 21
+      317930 | EVA             | EVA             | HERNANDEZ         | VAZQUEZ           | 09/03/2003     | MUJER    | 27
+      318278 | SARA            | FABIOLA         | MARTINEZ          | SANCHEZ           | 02/12/2000     | MUJER    | 12
+      318281 | DANIEL          | JACINTO         | GALLARDO          | ROMERO            | 22/04/1981     | HOMBRE   | 8
+      318336 | ROCIO           | LORENA          | ORTIZ             | PENA              | 05/07/1945     | MUJER    | 21
+      318638 | GUILLERMO       | JAVIER          | TORRES            | GALLARDO          | 12/12/1907     | HOMBRE   | 3
+      319131 | SOFIA           | BEATRIZ         | CASTILLO          | GONZALEZ          | 30/09/2003     | MUJER    | 29
+      319365 | MIREYA          | ROCIO           | SILVA             | NAVARRO           | 16/01/1967     | MUJER    | 14
+      320335 | MIREYA          | PILAR           | RAMIREZ           | MEDINA            | 06/10/1941     | MUJER    | 21
+      320683 | VICTORIA        | JULIA           | DIAZ              | MORENO            | 16/04/1938     | MUJER    | 12
+      320936 | GUSTAVO         | EDUARDO         | CAMPOS            | PENA              | 05/07/1988     | HOMBRE   | 11
+      321054 | CRISTINA        | MONICA          | PACHECO           | MEDINA            | 03/08/1939     | MUJER    | 32
+      321271 | MARIANO         | RAFAEL          | MORENO            | SILVA             | 19/12/1903     | HOMBRE   | 11
+      321294 | LAURA           | VICTORIA        | GUZMAN            | CAMPOS            | 02/01/1998     | MUJER    | 3
+      321689 | JUAN            | MARIO           | DELGADO           | VAZQUEZ           | 09/05/1964     | HOMBRE   | 32
+      322018 | ADRIANA         | ALICIA          | PINEDA            | MOLINA            | 13/11/1905     | MUJER    | 1
+      322324 | CARMEN          | ESTHER          | VILLALOBOS        | GALLARDO          | 14/05/1979     | MUJER    | 10
+      322459 | MANUEL          | PEDRO           | ORTIZ             | ROMERO            | 24/03/1910     | HOMBRE   | 3
+      322644 | PABLO           | HECTOR          | GALINDO           | CERVANTES         | 29/07/1992     | HOMBRE   | 28
+      324391 | MARGARITA       | LORENA          | TORRES            | VALENCIA          | 31/09/1973     | MUJER    | 1
+      325528 | MARINA          | ROCIO           | MEDINA            | LOPEZ             | 08/09/1994     | MUJER    | 4
+      325536 | MARGARITA       | MARINA          | VEGA              | SALAZAR           | 09/03/1952     | MUJER    | 30
+      325753 | MARTA           | MONICA          | AGUILAR           | SALAZAR           | 04/08/1998     | MUJER    | 7
+      325839 | RAFAEL          | ISRAEL          | GALLARDO          | ORTIZ             | 15/06/1948     | HOMBRE   | 15
+      326887 | JUAN            | FABIAN          | VALENCIA          | HERRERA           | 09/05/1976     | HOMBRE   | 10
+
+-----------------------------
+   MATRICULA  |  PR NOMBRE      |  SEG NOMBRE      |  PR APELLIDO      |  SEG APELLIDO      |  FECHA NAC      |  GENERO  |  EDO NAC
+--------------|-----------------|-----------------|-------------------|-------------------|----------------|----------|------------
+      326898 | ANTONIO         | JESUS           | RAMIREZ           | VEGA              | 08/09/1995     | HOMBRE   | 32
+      326927 | ANTONIA         | FABIOLA         | LOPEZ             | CASTRO            | 26/02/1981     | MUJER    | 22
+      327509 | IGNACIO         | JESUS           | FUENTES           | PENA              | 08/02/1933     | HOMBRE   | 5
+      328294 | ADRIANA         | ROSA            | VALENCIA          | ROJAS             | 24/08/1932     | MUJER    | 26
+      328376 | DIANA           | ANGELA          | RAMIREZ           | CORTES            | 16/09/2000     | MUJER    | 22
+      328889 | RAQUEL          | DIANA           | MOLINA            | LOPEZ             | 18/05/1989     | MUJER    | 10
+      329472 | VICTORIA        | ANGELA          | VEGA              | RAMIREZ           | 13/11/1920     | MUJER    | 3
+      329679 | DOLORES         | CELIA           | MORENO            | LUNA              | 27/07/1968     | MUJER    | 14
+      329708 | CARLOS          | FERNANDO        | SANCHEZ           | VILLALOBOS        | 16/05/1990     | HOMBRE   | 24
+      330469 | ANA             | NATALIA         | RAMIREZ           | VAZQUEZ           | 30/04/1959     | MUJER    | 18
+      330877 | DIANA           | PAULA           | DELGADO           | VARGAS            | 12/08/1927     | MUJER    | 12
+      330988 | FELICIANO       | VICTOR          | ROMERO            | GALINDO           | 09/05/1972     | HOMBRE   | 20
+      331024 | ROCIO           | MARTA           | PACHECO           | RAMOS             | 30/05/1995     | MUJER    | 27
+      331107 | INES            | MIREYA          | MENDOZA           | PINEDA            | 18/11/1984     | MUJER    | 3
+      331166 | JOAQUIN         | EDUARDO         | CASTRO            | SANCHEZ           | 09/03/1968     | HOMBRE   | 8
+      331248 | SOFIA           | VICTORIA        | GALLARDO          | CERVANTES         | 06/11/1909     | MUJER    | 6
+      331927 | JESUS           | SERGIO          | VILLALOBOS        | GONZALEZ          | 02/09/1945     | HOMBRE   | 9
+      332415 | DIEGO           | BRUNO           | CORTES            | MENDOZA           | 25/09/1941     | HOMBRE   | 8
+      332700 | OSCAR           | ALFREDO         | FUENTES           | FERNANDEZ         | 03/01/1903     | HOMBRE   | 1
+      332765 | JAVIER          | EMILIO          | PACHECO           | LOPEZ             | 20/03/1936     | HOMBRE   | 1

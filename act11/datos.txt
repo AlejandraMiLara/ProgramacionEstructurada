@@ -1,0 +1,12 @@
+
+-----------------------------
+   MATRICULA  |  PR NOMBRE      |  SEG NOMBRE      |  PR APELLIDO      |  SEG APELLIDO      |  FECHA NAC      |  GENERO  |  EDO NAC
+--------------|-----------------|-----------------|-------------------|-------------------|----------------|----------|------------
+      309359 | FELIPE          | ENRIQUE         | MALDONADO         | BENITEZ           | 23/02/1979     | HOMBRE   | 25
+      309536 | FRANCISCO       | DIEGO           | VALENCIA          | MEDINA            | 21/05/1991     | HOMBRE   | 2
+      312473 | JESUS           | ADRIAN          | SILVA             | PINEDA            | 22/10/1996     | HOMBRE   | 14
+      316608 | DANIEL          | ALFREDO         | ROJAS             | DELGADO           | 29/04/1944     | HOMBRE   | 19
+      318453 | DOLORES         | MIREYA          | PINEDA            | REYES             | 29/10/1933     | MUJER    | 22
+      320091 | PAULA           | MARTA           | LOPEZ             | FUENTES           | 28/01/2005     | MUJER    | 1
+      323879 | SILVIA          | LUISA           | DELGADO           | CERVANTES         | 01/05/2003     | MUJER    | 29
+      328529 | PATROCINIO      | ROCIO           | LUNA              | VEGA              | 03/12/1901     | MUJER    | 30
